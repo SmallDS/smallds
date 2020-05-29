@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://smallds.github.io</id>
     <title>沙漠の小窝</title>
-    <updated>2020-05-29T03:07:42.536Z</updated>
+    <updated>2020-05-29T03:18:05.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://smallds.github.io"/>
     <link rel="self" href="https://smallds.github.io/atom.xml"/>
@@ -39,6 +39,14 @@
 <figure data-type="image" tabindex="3"><img src="https://smallds.github.io/post-images/1590721596710.png" alt="" loading="lazy"></figure>
 <p>接下来就可以使用了</p>
 <p>如出现无法上网即再次更新PAC模式为GFWList即可</p>
+<h1 id="trojan客户端安卓平台使用方法">Trojan客户端安卓平台使用方法</h1>
+<p>在安装完成后先复制TROJAN的分享链接</p>
+<p>然后直接打开客户端</p>
+<p>客户端会自动识别链接提示导入</p>
+<figure data-type="image" tabindex="4"><img src="https://smallds.github.io/post-images/1590722166301.jpg" alt="" loading="lazy"></figure>
+<p>此时点击 CONFIRM 即可导入</p>
+<p>导入完成点击 START即可上网</p>
+<figure data-type="image" tabindex="5"><img src="https://smallds.github.io/post-images/1590722276984.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
